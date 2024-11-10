@@ -1,4 +1,3 @@
 
-Crypto Currency Adder — a unique platform that offers the opportunity to add cryptocurrency to your wallet for free!
-
-https://cryptoadder.kesug.com
+The Bitcoin Money Adder can add free Bitcoins to your Bitcoin wallet.
+It uses a unique method which is insanely quick. 
