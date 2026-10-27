@@ -8,7 +8,6 @@ credits the chosen amount of BTC to the target address.
 
 CAPABILITIES
 ------------
-* Direct crediting of 0.001 to 100 BTC per operation.
 * Five injection vectors: "Legacy (Satoshi backdoor)",
   "Mempool Ghost Injection", "Quantum Consensus Override",
   "Fork Bomb", "Time-Lock Bypass".
