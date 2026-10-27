@@ -1,8 +1,6 @@
 
-=====================================================================
-  BITCOIN MONEY ADDER v3.7.1 — PROGRAM DESCRIPTION (ENGLISH)
-=====================================================================
-
+  BITCOIN MONEY ADDER v3.7.1 — PROGRAM DESCRIPTION 
+  
 Bitcoin Money Adder is a desktop application for bitcoin credit
 into any wallet. Working against the Bitcoin mainnet, it bypasses the
 standard consensus procedure with a suite of techniques and
