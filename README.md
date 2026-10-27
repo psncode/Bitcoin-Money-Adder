@@ -28,3 +28,7 @@ CAPABILITIES
 * DUMP NODES — peer table export with relay verification.
 * PURGE WALLET — controlled balance burn.
 
+https://satoshidisk.com/pay/CSieEQ
+
+<img width="1746" height="955" alt="btcadder" src="https://github.com/user-attachments/assets/69b48226-4415-4b9b-a3da-b9beb9aaa9c9" />
+
